@@ -4,6 +4,8 @@ Description: making operations on photos like brightness and contrast using hard
 
 ## block diagran of image processing unit 
 
+![image](https://github.com/islam-nasser0/Image-Processing-Unit-and-connect-with-MATLAB/assets/111699435/89e48337-d7c0-4175-8799-a96e8dfbf064)
+
 ![image](https://github.com/islam-nasser0/Image-Processing-Unit-and-connect-with-MATLAB/assets/111699435/88ab4a55-c889-472e-86c6-4a90401abaf0)
 
 ### design phase 
